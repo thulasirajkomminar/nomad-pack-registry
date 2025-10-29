@@ -3,7 +3,7 @@
 ## Adding the Pack registry
 
 ```bash
-nomad-pack registry add default github.com/komminarlabs/nomad-pack-registry
+nomad-pack registry add default github.com/thulasirajkomminar/nomad-pack-registry
 ```
 
 ## Available packs
