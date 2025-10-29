@@ -6,11 +6,11 @@ app {
 pack {
   name        = "grafana"
   description = "Dashboard anything. Observe everything."
-  url         = "https://github.com/komminarlabs/nomad-pack-registry/grafana"
+  url         = "https://github.com/thulasirajkomminar/nomad-pack-registry/grafana"
   version     = "0.1.0"
 }
 
 integration {
-  identifier = "nomad/komminarlabs/grafana"
+  identifier = "nomad/thulasirajkomminar/grafana"
   name       = "Grafana OSS"
 }
